@@ -1,4 +1,14 @@
-
+---
+layout:     post
+title:      数据结构
+subtitle:   树与图
+date:       2022-11-23
+author:     maple
+header-img: img/4k-gaming-mountain.jpg
+catalog: true
+tags:
+    - 学习资料
+---
 > <a name="kfSiH"></a>
 ### 创建及遍历二叉树
 
