@@ -1,3 +1,17 @@
+
+---
+layout:     post
+title:      JVM
+subtitle:   JVM学习笔记
+date:       2023-5-22
+author:     maple
+header-img: img/background001.jpg
+catalog:   true
+tags:
+    - 学习资料
+---
+
+
 <a name="bV60x"></a>
 ### 第2章  Java内存区域与内存溢出异常  
 <a name="JLjFx"></a>
