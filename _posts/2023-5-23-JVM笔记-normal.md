@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      个人博客建立
-subtitle:   快速建立个人博客
+title:      JVM
+subtitle:   JVM
 date:       2022-11-23
 author:     maple
 header-img: img/4k-gaming-mountain.jpg
